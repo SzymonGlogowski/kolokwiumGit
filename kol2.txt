@@ -1,2 +1,3 @@
 ZmianaA
 ZmianaB
+ZmianaC
